@@ -1,5 +1,4 @@
 # Mobile-Price-Range-Prediction
-In the Analysis, we have to predict the price range of mobile phones indicating how high the price is.
 ![image](https://user-images.githubusercontent.com/96782258/155069933-c85bc926-771d-4107-90a9-44274ef0246f.png)
  ### Problem Description
  In the competitive mobile phone market companies want to understand sales data of mobile phones and factors which drive the prices. The objective is to find out some relation between features of a mobile phone(eg:- RAM, Internal Memory, etc) and its selling price. In this problem, we do not have to predict the actual price but a price range indicating how high the price is.
@@ -44,6 +43,6 @@ Touch_screen - Has touch screen or not
 
 Wifi - Has wifi or not
 
-Price_range - This is the target variable with value of 0(low cost), 1(medium cost),
+####Target Variable :
+####'Price_range': This is the target variable with value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost).
 
-2(high cost) and 3(very high cost).
