@@ -43,6 +43,6 @@ Touch_screen - Has touch screen or not
 
 Wifi - Has wifi or not
 
-####Target Variable :
-####'Price_range': This is the target variable with value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost).
+Target Variable :
+'Price_range': This is the target variable with value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost).
 
